@@ -1,0 +1,43 @@
+div, img, li {
+    outline: 1px solid;
+}
+.nav {
+    display: flex;
+}
+ul {
+    list-style: none;
+    display: flex;
+    margin-left: 45px;
+    margin-top: 80px;
+}
+li {
+    margin-left: 25px;
+}
+.imglogo {
+    margin-left: 160px;
+    margin-top: 55px;
+}
+.imgmail {
+    margin-top: 80px;
+    margin-left: 520px;
+}
+.imgphone {
+    margin-top: 80px;
+    margin-left: 20px;
+}
+.logo {
+    display: flex;
+    width: 250px;
+}
+button {
+    border-radius: 10px;
+    width: 240px;
+    height: 50px;
+    background-color: #ffcb06;
+}
+h1 {
+    font-family: Courier New Bold;
+    font-size: 45px;
+    color: ffffff;
+    font-weight: bold;
+}
